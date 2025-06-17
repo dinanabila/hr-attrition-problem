@@ -38,6 +38,7 @@ python predict.py
 ## Business Dashboard
 
 Link dashboard (Tableau Public): https://public.tableau.com/app/profile/dina.nabila/viz/Wehavehighattritionrateinourcompany_Why/Dashboard
+Link video penjelasan dashboard: https://drive.google.com/file/d/12pV18gqrtVKbScf7h6A4-n1JXxRTmHZR/view?usp=drive_link
 
 ![Dashboard](dinanabila-dashboard.png)
 
